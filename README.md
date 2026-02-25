@@ -1,2 +1,2 @@
 # Hi
-Blog(Chinese): https://linde.gitbook.io/blog/
+Blog(Chinese): https://super-sunset-564a.longpeng96-94a.workers.dev/
